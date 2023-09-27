@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "리액트 처음부터 끝까지",
+    "description": "Learn Modern React, Including Hooks, Context API, Full Stack MERN & Redux By Building Real Life Projects.",
+    "link": "https://www.traversymedia.com/Modern-React-Front-To-Back-Course",
+    "level": "초보"
+  },
+  {
+    "id": 2,
+    "title": "Node.js Api 마스터 클래슼",
+    "description": "Learn Modern React, Including Hooks, Context API, Full Stack MERN & Redux By Building Real Life Projects.",
+    "link": "https://www.traversymedia.com/node-js-api-masterclass",
+    "level": "중수"
+  },
+  {
+    "id": 3,
+    "title": "Modern JavaScript From The Beginning",
+    "description": "37 hour course that teaches you all of the fundamentals of modern JavaScript",
+    "link": "https://www.traversymedia.com/modern-javascript-2-0",
+    "level": "모든레벨"
+  },
+  {
+    "id": 4,
+    "title": "리액트 처음부터 끝까지",
+    "description": "Learn Next.js by building a music event website and a web dev blog as a static website",
+    "link": "https://www.traversymedia.com/next-js-dev-to-deployment",
+    "level": "중수"
+  },
+  {
+    "id": 5,
+    "title": "50일 50프로젝트!",
+    "description": "50개의 재밌고 빠르고 특별한 프로젝트를 통해서 너의 스킬들을 갈고 닦아라!!",
+    "link": "https://www.traversymedia.com/50-Projects-In-50-Days",
+    "level": "초보"
+  }
+]
